@@ -139,5 +139,5 @@ function buildScript( path ) {
 
 gulp.task( "default", () => {
   logBuildMode();
-  buildScript( `${SOURCE_PATH}/script.js` );
+  buildScript( `${SOURCE_PATH}/gamepad.js` );
 } );
