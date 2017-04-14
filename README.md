@@ -5,4 +5,4 @@ With this plugin you can control your presentation in [reveal.js](https://github
 ![controls](http://i.imgur.com/oaE6CGo.png)
 
 ## Instalation
-Copy `gamepad.js` od `gamepad.min.js` from `build` to `/plugin/gamepad/` directory and `{ src: 'plugin/gamepad/gamepad.js', async: true }` to dependencies in `Reveal.initialize`.
+Copy `gamepad.js` or `gamepad.min.js` from `build` to `/plugin/gamepad/` directory and `{ src: 'plugin/gamepad/gamepad.js', async: true }` to dependencies in `Reveal.initialize`.
